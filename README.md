@@ -14,7 +14,7 @@
 
   - [x] Faster-RCNN
 
-- - [ ] SSD
+- - [x] SSD
 
 - YOLO系列
 
