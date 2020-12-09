@@ -18,7 +18,7 @@
 
 - YOLO系列
 
-  - [ ] YOLO1
+  - [x] YOLO1
 
   - [ ] YOLO2
 
