@@ -22,7 +22,7 @@
 
   - [x] YOLO2
 
-  - [ ] YOLO3
+  - [x] YOLO3
 
   - [ ] YOLO4
 
